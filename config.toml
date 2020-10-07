@@ -40,6 +40,9 @@ URL = "research"
 name = "research"
 weight = 1
 [[menu.main]]
+name = "Resources"
+weight = 7
+[[menu.main]]
 URL = "scholarship"
 name = "scholarship"
 parent = "Research"
