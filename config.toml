@@ -20,74 +20,74 @@ languageCode = "fr-fr"
 languageName = "中文"
 weight = 2
 [[menu.footer]]
-URL = "research"
-name = "research"
-weight = 1
-[[menu.footer]]
-URL = "scholarship"
-name = "scholarship"
-weight = 2
-[[menu.footer]]
-URL = "event"
-name = "event"
-weight = 3
+URL = "teacher"
+name = "teacher"
+weight = 5
 [[menu.footer]]
 URL = "notice"
 name = "notice"
 weight = 4
 [[menu.footer]]
-URL = "teacher"
-name = "teacher"
-weight = 5
-[[menu.main]]
-name = "News"
-url = "news"
-weight = 6
-[[menu.main]]
-URL = "research"
-name = "research"
-parent = "Pages"
-weight = 1
-[[menu.main]]
-URL = "teacher"
-name = "teacher"
-parent = "Pages"
-weight = 2
-[[menu.main]]
-URL = "notice"
-name = "notice"
-parent = "Pages"
-weight = 3
-[[menu.main]]
 URL = "event"
 name = "event"
-parent = "Pages"
-weight = 4
+weight = 3
+[[menu.footer]]
+URL = "scholarship"
+name = "scholarship"
+weight = 2
+[[menu.footer]]
+URL = "research"
+name = "research"
+weight = 1
 [[menu.main]]
 URL = "scholarship"
 name = "scholarship"
-parent = "Pages"
+parent = "Research"
 weight = 5
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 5
+URL = "event"
+name = "event"
+parent = "Research"
+weight = 4
+[[menu.main]]
+URL = "notice"
+name = "notice"
+parent = "Research"
+weight = 3
+[[menu.main]]
+URL = "teacher"
+name = "teacher"
+parent = "Research"
+weight = 2
+[[menu.main]]
+URL = "research"
+name = "research"
+parent = "Research"
+weight = 1
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 1
+[[menu.main]]
+URL = "course"
+name = "course"
+weight = 3
+[[menu.main]]
+hasChildren = true
+name = "Research"
+weight = 2
 [[menu.main]]
 URL = "blog"
 name = "blog"
 weight = 4
 [[menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 3
+URL = "contact"
+name = "Contact"
+weight = 5
 [[menu.main]]
-URL = "course"
-name = "course"
-weight = 2
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
+name = "News"
+url = "news"
+weight = 6
 [params]
 address = "29 Jiangjun Road, Nanjing 211106, China."
 author = "Chuang YANG"
