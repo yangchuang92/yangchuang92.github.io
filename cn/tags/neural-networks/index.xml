@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neural Networks on Chuang YANG | Researcher of Robotics &amp; Neuroscience</title>
+    <link>https://yangchuang92.github.io/cn/tags/neural-networks/</link>
+    <description>Recent content in Neural Networks on Chuang YANG | Researcher of Robotics &amp; Neuroscience</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cn-cn</language>
+    <copyright>版权所有 &amp;copy; 2020 杨闯 All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 24 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yangchuang92.github.io/cn/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Navigation Cell-like Patterns Trained by Artificial Neural Networks</title>
+      <link>https://yangchuang92.github.io/cn/blog/blog-post-3/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yangchuang92.github.io/cn/blog/blog-post-3/</guid>
+      <description>Emergence of Grid-like Representations by Training Recurrent Neural Networks to Perform Spatial Localization  Abstract: Decades of research on the neural code underlying spatial navigation have re- vealed a diverse set of neural response properties.</description>
+    </item>
+    
+  </channel>
+</rss>
