@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>grid cell on Chuang Yang</title>
+    <link>https://yangchuang92.github.io/tags/grid-cell/</link>
+    <description>Recent content in grid cell on Chuang Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yangchuang92.github.io/tags/grid-cell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Brain-inspired vector navigation </title>
+      <link>https://yangchuang92.github.io/blog/vector-navigation/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yangchuang92.github.io/blog/vector-navigation/</guid>
+      <description>Brain-inspired vector navigation method for UAV based on model of multi-scale grid cells Abstract: Animals have excellent ability to perform vector navigation, which provides a useful biological model for developing a very promising paradigm of autonomous intelligent goal-directed navigation for UAV working in unknown environment. Firstly, the mechanisms of animal vector navigation are discussed. Then the mechanisms of encoding and decoding of multi-scale grid cells are studied, and a brain-inspired large-scale vector navigation method for UAV based on model of multi-scale grid cells is proposed and assessed.</description>
+    </item>
+    
+  </channel>
+</rss>
