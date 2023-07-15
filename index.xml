@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chuang Yang</title>
+    <link>/</link>
+    <description>Recent content on Chuang Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>Research Topics At present, my research focuses on Brain-Inspired Navigation for Swarm Robotics, where the state-of-the-art brain inspired spatial cognition, navigation and decision-making models for swarm robots are proposed and are being implemented on the neuromorphic chips.
+Revolving these goals, I have developed a set of brain-inspired swarm navigation models, including:
+Brain-inspired 3D large-scale Navigation Brain-inspired Relative Navigation Brain-inspired Cooperative Navigation Currently, I am working on the following topics:
+Brain-inspired Self-organizing Swarm Perception and Decision-making Neuromorphic Autonomous System Research Project NeuromorphicSWARM: The research goal is to advance swarm intelligence by engineering neural basis of swarm perception, awareness and navigation to build socially Neuromorphic Robot Swarms that can navigate in 3D space as social animals do, and can understand, reason about, and interact with each other as well as humans in real-world settings.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/publications/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>Journal Papers 2023 Chuang Yang, Shuzhi Sam Ge, Zhi Xiong, Xiaoling Liang, Jianye Liu. Brain Inspired Multi-source Navigation with Multiscale and Multifield Spatially Selective Neurons[J]. IEEE Transactions on Instrumentation and Measurement (to be submitted). 2022 Chuang Yang, Zhi Xiong, Shuzhi Sam Ge, Jianye Liu, Xiaoling Liang, Ruihang Ji. Brain-Inspired Cooperative Localization with Spatially Selective Neuron Network[J]. IEEE Transactions on Aerospace and Electronic Systems (under review). Chuang Yang, Zhi Xiong, Jianye Liu, et al.</description>
+    </item>
+    
+    <item>
+      <title>Honors</title>
+      <link>/honors/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/honors/</guid>
+      <description>Awards in Academia 2021 - Chinese Government Scholarship for Postgraduate to Study Abroad (CSC Scholarship)
+2017 - National Scholarship for Postgraduate, China (1/300+)
+2013 - National Scholarship for Encouragement, China (3/60+)
+2012 - National Scholarship for Encouragement, China (3/60+)
+Awards in Industrial Challenges 2017 - Second place, 12th Electronic Design Competition for China postgraduate - On-line monitoring system of transmission line galloping (team leader) 2017 - Third place, 4th Petroleum Equipment Innovative Design Competition for China postgraduate - Orientation Estimation System for MWD (team leader) </description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>/services/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/services/</guid>
+      <description>Editor 2022 - present: responsible editor, Navigation Positioning and Timing Journal Reviewer 2022 - present: Navigation Positioning and Timing
+2021 - present: Aircraft Engineering and Aerospace Technology
+2020 - present: IEEE Transactions on Industrial Electronics
+2020 - present: Chinese Journal of Aeronautics
+Professional Committees 2022 - present: Member, IEEE
+2022 - present: Member, Chinese Neuroscience Society
+2021 - present: Member, Chinese Association of Automation
+2020 - present: Member, Chinese Society of Aeronautics and Astronautics</description>
+    </item>
+    
+    <item>
+      <title>Collaborators &amp; Friends</title>
+      <link>/collaborators/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/collaborators/</guid>
+      <description>Robotics &amp;amp; Control Prof. Shuzhi Sam Ge, Department of Electrical and Computer Engineering, and Institute for Functional Intelligent Materials, National University of Singapore. Neuroscience Prof. Xiaojian Li, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences.
+Dr. Bingyu Liu, Institute of Neuroscience, Chinese Academy of Sciences.
+Dr. Han Zhang, Singapore Institute for Clinical Sciences, Agency for Science, Technology and Research (ASTAR), Singapore.
+Neuromorphic Computing Dr. Fangwen Yu, Center for Brain-Inspired Computing Research, Tsinghua University.</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>/news/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/news/</guid>
+      <description>2023 03.31/2023 &amp;gt; &amp;gt; Welcome Prof. Paolo Dario (Scuola Superiore Sant’Anna, Pisa, Italy), the Founding Editorial Board Member of the Journal Science Robotics to visit our group, and give us a report titled Science And Engineering of Robotics and Biorobotics: from Vision to Reality. 01.10/2023 &amp;gt; &amp;gt; Welcome Nobel Laureate Prof. Frederick Duncan Haldane (Princeton University) to visit our group. 2022 12.06/2022 &amp;gt; &amp;gt; Welcome Prof. Marios Polycarpou (University of Cyprus &amp;amp; Imperial College London) to visit our group, and give us a report titled Distributed Fault Diagnosis of Interconnected Cyber-Physical Systems.</description>
+    </item>
+    
+  </channel>
+</rss>
